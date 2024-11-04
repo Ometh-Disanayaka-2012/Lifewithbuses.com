@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    h1{
+        color:#FF8559
+    }
+}
+
+#home-link{
+    color:palevioletred
+}
+#youtube-link{
+    color:red
+}
+#tiktok-link{
+    color:purple
+}
+#my-whatsapp-channel-link{
+    color:green
+}
+
+#image{
+    width: 500px;
+}
